@@ -1,7 +1,9 @@
 <template>
   <v-app :style="{ background: $vuetify.theme.themes.dark.background }">
-    hello
+    <Sidebar />
   </v-app>
 </template>
 
-<script setup></script>
+<script setup>
+import Sidebar from "../components/Sidebar.vue";
+</script>
