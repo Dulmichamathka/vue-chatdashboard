@@ -55,7 +55,7 @@
             <v-avatar style="text-align: start"
               ><img :src="chat.img" width="48px" height="48px"
             /></v-avatar>
-            <div class="d-flex flex-column ml-5">
+            <div class="d-flex flex-column ml-4">
               <div class="d-flex mb-4" style="justify-content: space-between">
                 <small
                   style="color: blue"
@@ -65,7 +65,7 @@
                 <small>{{ chat.time }}</small>
               </div>
               <div>
-                <p>{{ chat.topic }}</p>
+                <p class="mb-1">{{ chat.topic }}</p>
                 <small
                   style="color: grey"
                   :class="chatactive === chat.name ? 'active-item-small' : ''"
