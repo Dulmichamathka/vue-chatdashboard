@@ -5,8 +5,8 @@
       v-model="drawer"
       color="#1E1F25"
       class=" drawer ma-5 rounded-xl"
-      style="height: calc(100% - 40px); 
-      scrollbar-color: #757b8c #282c38; width: 270px;;"
+      style="height: calc(100% - 40px); position: fixed;
+      scrollbar-color: #757b8c #282c38;"
     >
       <v-container class="d-flex align-center">
         <div
@@ -171,14 +171,14 @@ const items = [
   { icon: "fas fa-table-cells-large", name: "Dashboard" },
   { icon: "fas fa-chart-column", name: "Projects" },
   { icon: "fas fa-calendar-days", name: "Calender" },
-  { icon: "fas fa-folder-open", name: "Documents" },
-  { icon: "fas fa-cart-shopping", name: "Store" },
+
+ 
 ];
 
 const intergrations = [
   { icon: "/figma.png", name: "Figma" },
   { icon: "/slack.png", name: "Slack" },
-  { icon: "/jira.png", name: "Jira" },
+ 
 ];
 
 const account = [
