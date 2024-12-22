@@ -6,7 +6,7 @@
       margin-top: 90px !important;
       margin-left: 70px !important;
       background-color: #171721;
-      height: 100%;
+      height: 90%;
     "
   >
     <div
@@ -44,10 +44,7 @@
         <p class="mt-4 mb-3">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium
           provident necessitatibus architecto alias, deserunt ab cupiditate
-          dolor aliquam earum non iusto, quidem placeat sit animi in voluptatum?
-          Excepturi, dolorem! Pariatur?Lorem ipsum, dolor sit amet consectetur
-          adipisicing elit. Asperiores, fugit. Cupiditate architecto perferendis
-          asperiores aspernatur dolorum quaerat?
+          dolor aliquam earum non iusto,
         </p>
         <p class="mb-3">
           Laborum commodi, tempore sapiente quam nisi in consequuntur amet vero
@@ -77,7 +74,8 @@
             style="
               min-width: 0px !important;
               margin-right: 8px;
-              background-color: blue;
+              background-color: #b4cdfd;
+              border-radius: 12px;
             "
             ><v-icon color="#246CF9">fas fa-folder</v-icon></v-btn
           >
@@ -104,7 +102,8 @@
             style="
               min-width: 0px !important;
               margin-right: 8px;
-              background-color: blue;
+              background-color: #b4cdfd;
+              border-radius: 12px;
             "
             ><v-icon color="#246CF9">fas fa-folder</v-icon></v-btn
           >
@@ -118,7 +117,7 @@
       </div>
     </div>
 
-    <v-card class="rounded-xl mt-15 ml-5" color="#1e1f25">
+    <v-card class="rounded-xl mt-8 ml-5" color="#1e1f25">
       <div class="d-flex align-center pa-4">
         <v-icon color="blue">fas fa-reply</v-icon>
         <div class="ml-3">

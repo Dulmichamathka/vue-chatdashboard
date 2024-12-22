@@ -114,8 +114,8 @@ const chats = [
     text: " Hey Bobby ,can i get your figma design. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat hic ipsum atque ea voluptatum provident dolor impedit minus, tenetur, eveniet at explicabo debitis libero voluptatibus! Minima similique magnam voluptatum inventore.",
   },
   {
-    img: "/img4.png",
-    name: "Jony Dias",
+    img: "/img8.png",
+    name: "Hasthika Rajapaksha",
     time: "9.23 A.M",
     topic: "Figma UI design",
     text: " Hey Bobby ,can i get your figma design. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat hic ipsum atque ea voluptatum provident dolor impedit minus, tenetur, eveniet at explicabo debitis libero voluptatibus! Minima similique magnam voluptatum inventore.",
@@ -123,13 +123,6 @@ const chats = [
   {
     img: "/img5.png",
     name: "Kathrina Fenando",
-    time: "9.23 A.M",
-    topic: "Figma UI design",
-    text: " Hey Bobby ,can i get your figma design. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat hic ipsum atque ea voluptatum provident dolor impedit minus, tenetur, eveniet at explicabo debitis libero voluptatibus! Minima similique magnam voluptatum inventore.",
-  },
-  {
-    img: "/img8.png",
-    name: "Hasthika Rajapaksha",
     time: "9.23 A.M",
     topic: "Figma UI design",
     text: " Hey Bobby ,can i get your figma design. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat hic ipsum atque ea voluptatum provident dolor impedit minus, tenetur, eveniet at explicabo debitis libero voluptatibus! Minima similique magnam voluptatum inventore.",
